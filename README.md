@@ -12,7 +12,7 @@ The project focuses on analyzing and forecasting mobility trends using time seri
 
 ## Steps Involved
 
-### **Task 2: Mobility Data Forecasting**
+### **Task: Mobility Data Forecasting**
 1. **Dataset**: Google Mobility Data (King County, 2020-2022).
    - Isolated time series for:
      - Residential
