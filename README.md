@@ -36,18 +36,17 @@ The project focuses on analyzing and forecasting mobility trends using time seri
 
 ## Repository Contents
 
-- **`project2.ipynb`**: Jupyter Notebook containing:
+- **Time-Series-Prediction-and-Forecasting.ipynb**: Jupyter Notebook containing:
   - Code implementation.
-  - Results and plots for Task 2.
-- **`data/`**: Folder containing all necessary datasets:
+  - Results and plots for Time Series Prediction and Forecasting.
+- **data/**: Folder containing all necessary datasets:
   - Google Mobility Data (King County, 2020-2022).
-- **`README.md`**: Project documentation (this file).
+- **README.md**: Project documentation (this file).
 
 ---
 
-## How to Run the Notebook
+## Dataset Location
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-repo-name>.git
-   cd <your-repo-name>
+The dataset used in this project is available at the following location:
+
+[Google Drive - Mobility Data](https://drive.google.com/drive/folders/1REVSP3Z6NbRkco8-RCLPNTirUWkV5Rsz?usp=sharing)
